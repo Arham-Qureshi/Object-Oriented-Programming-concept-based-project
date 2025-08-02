@@ -79,8 +79,7 @@ g++ main.cpp -o student_report
 ---
 
 ## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to use or modify it for academic or educational purposes.
+Feel free to use or modify it for academic or educational purposes.
 
 ---
 
