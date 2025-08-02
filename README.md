@@ -1,5 +1,7 @@
 # 🎓 Student Report Management System (C++)
 
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
+![Status](https://img.shields.io/badge/project-OOP%20PBL%20Assignment-green)
 
 This is a **C++ Object-Oriented Programming (OOP)** based project designed for college-level PBL (Project-Based Learning). It manages and maintains student academic records using core C++ features and standard file handling.
 
